@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding = "UTF-8" standalone="no" ?>
+<!DOCTYPE ListaVentas SYSTEM "ListaVentas.dtd">
+<ListaVentas>
+    <venta>
+        <importe>500</importe>
+        <comprador>Elkin Alberto Osorio J</comprador>
+        <vendedor>Carlos Andres Sanchez</vendedor>
+        <fecha>24-10-2022</fecha>
+        <codigoFactura>COD0001</codigoFactura>
+    </venta>
+</ListaVentas>
